@@ -4,11 +4,13 @@ body {
 }
 
 .main {
-  display: flex;
-  flex-direction: row-reverse;
 
-  width: 1200px;
+  flex-direction: row-reverse;
+  background: #fff;
+  display: flex;
+  max-width: 1200px;
   margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 
 .main-content {
@@ -19,6 +21,7 @@ body {
 
 .about {
   margin-bottom: 20px;
+  margin-top: 6px;
 }
 
 .about-position {
@@ -180,19 +183,23 @@ body {
 }
 
 .photo {
-  width: 360px;
+  width: 350px;
   margin-bottom: 51px;
-  padding: 5px;
+  padding: 10px;
+  border-radius: 50px;
 }
 
 .contacts,
 .tech-skills,
-.soft-skills {
+.soft-skills,
+.language-skills {
   margin-left: 40px;
 }
 
 .contacts {
-  margin-bottom: 47px;
+  /* margin-bottom: 226px; */
+    margin-bottom: 44px;
+
 }
 
 .contact-blok {
@@ -206,7 +213,12 @@ margin: 5px;}
 }
 
 .tech-skills {
-  margin-bottom: 44px;
+        margin-bottom: 44px;
+}
+
+.language-skills{
+    margin-bottom: 226px;
+
 }
 
 .sidebar-title {
