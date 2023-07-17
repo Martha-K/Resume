@@ -203,13 +203,17 @@ body {
 }
 
 .contact-blok {
-margin: 5px;}
+margin: 5px;
+
+}
 
 .contacts-symbols {
   font-weight: bold;
   width: 18px   ;
   /* margin-left: px; */
   margin-right: 7px;
+  /* color: #fb6d3a; */
+/* background-color: #fb6d3a; */
 }
 
 .tech-skills {
@@ -225,7 +229,7 @@ margin: 5px;}
   color: #ffffff;
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 25px;
   line-height: 27px;
   margin-bottom: 10px;
 }
@@ -242,10 +246,10 @@ margin: 5px;}
 .contact-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #ffffff;
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 
 .tech-skills-list {
@@ -261,7 +265,7 @@ margin: 5px;}
   color: #ffffff;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
 }
 
@@ -283,7 +287,7 @@ margin: 5px;}
   color: #ffffff;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
 }
 
