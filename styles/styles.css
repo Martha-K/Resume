@@ -186,7 +186,7 @@ body {
   width: 350px;
   margin-bottom: 51px;
   padding: 10px;
-  border-radius: 50px;
+  /* border-radius: 50px; */
 }
 
 .contacts,
@@ -221,7 +221,7 @@ margin: 5px;
 }
 
 .language-skills{
-    margin-bottom: 226px;
+    margin-bottom: 60px;
 
 }
 
